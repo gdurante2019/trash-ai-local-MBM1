@@ -11,7 +11,7 @@ The repo contains a requirements list for setting up the environment and a modif
 
 ## Primary packages required for initial environment setup 
 It's good practice to create an environment specifically for this project and use a dependency manager to install these packages.  I set up an environment using conda and used conda (and pip, where necessary) to install these packages. 
-- Python 3.8
+- Python 3.8.6
 - PyTorch for Apple Silicon
 - Matplotlib
 - Numpy
