@@ -20,7 +20,7 @@ It's good practice to create an environment specifically for this project and us
 - Tensorboard
 - Tensorflowjs
 
-### NOTE:  Why would anyone want to train this model on their local machine, with all of the cloud-based options available these days?
+#### NOTE:  Why would anyone want to train this model on their local machine, with all of the cloud-based options available these days?
 Well, call me 'old school', but I like being able to set up and run models on my own machine.  For more computationally- and data-intensive modeling, I will use Google Colab, Kaggle, or another available cloud-based ML tool, but there are at least 3 reasons why I like to set things up locally first:
 1.  I like the challenge of setting up the environment and getting all of the dependencies to work properly to run the model
 2.  I feel that it's easier to test code modifications on my local machine, rather than being reliant on a cloud-based option that might kick me off and potentially losing my work or modeling progress
